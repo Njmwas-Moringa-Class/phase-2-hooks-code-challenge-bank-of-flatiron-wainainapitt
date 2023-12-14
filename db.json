@@ -83,6 +83,76 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2023-12-14",
+      "description": "car",
+      "category": "income",
+      "amount": "2000",
+      "id": 13
+    },
+    {
+      "date": "2023-12-13",
+      "description": "car",
+      "category": "income",
+      "amount": "2000000",
+      "id": 14
+    },
+    {
+      "date": "2023-12-14",
+      "description": "shirt",
+      "category": "clothes",
+      "amount": "30000",
+      "id": 15
+    },
+    {
+      "date": "2023-12-12",
+      "description": "nnnn",
+      "category": "goat20",
+      "amount": "34",
+      "id": 16
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": 0,
+      "id": 17
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": 0,
+      "id": 18
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": 0,
+      "id": 19
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": 0,
+      "id": 20
+    },
+    {
+      "date": "2023-12-13",
+      "description": "shirt",
+      "category": "nguo",
+      "amount": "10000",
+      "id": 21
+    },
+    {
+      "date": "2023-12-12",
+      "description": "water",
+      "category": "maji",
+      "amount": "3000",
+      "id": 22
     }
   ]
 }
